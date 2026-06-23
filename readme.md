@@ -1,4 +1,4 @@
-<img src="moody-ds-logo.png" width="300">
+<img src="moody-ds-logo.png" width="600">
 
 # moody-ds
 
