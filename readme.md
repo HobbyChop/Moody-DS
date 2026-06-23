@@ -90,14 +90,6 @@ Turn on Clock In to follow an external clock. moody-ds starts right on the beat 
 
 If you sync from an arduinoboy or LSDJ setup, moody-ds quietly ignores the extra start note those rigs send alongside their clock, so you get clean timing with no surprise drone. Notes you actually play still come through as normal.
 
-## Building from source
-
-For developers. You will need devkitPro with devkitARM and libnds installed. From the ds-rom folder:
-
-* `make` builds the full version (moody-ds.nds).
-* `make DEMO=1` builds the free demo (moody-ds-demo.nds).
-
-Run `make clean` when switching between the two, so it rebuilds completely.
 
 ## Credits and license
 
