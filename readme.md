@@ -17,7 +17,7 @@ moody-ds is a virtual analog synth. It has the warm, hands on character of a cla
 **Play**
 
 * A touch keyboard right on the screen, so you can perform by hand.
-* Three voice polyphony, so chords and overlapping notes ring out together, played from a MIDI keyboard or stacked up by the sequencer and arpeggiator.
+* 32Khz, two voice polyphony, so chords and overlapping notes ring out together, played from a MIDI keyboard or stacked up by the sequencer and arpeggiator.
 
 **Shape**
 
