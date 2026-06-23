@@ -2,7 +2,7 @@
 
 A touchscreen analog style synth and groovebox for the Nintendo DS.
 
-Version 1.0.1, by HobbyChop (hobbychop.com)
+by HobbyChop (hobbychop.com)
 
 Turn your Nintendo DS into a pocket synthesizer. Sculpt sounds with your finger on the filter pad, build basslines and beats on the step sequencer, chain them into a full song, and sync it all to your gear. moody-ds is made to be picked up and played.
 
