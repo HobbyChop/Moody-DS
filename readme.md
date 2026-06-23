@@ -15,7 +15,7 @@ moody-ds is a virtual analog synth. It has the warm, hands on character of a cla
 **Play**
 
 * A touch keyboard right on the screen, so you can perform by hand.
-* Press B to move through the voice modes, from single notes to full chords.
+* Three voice polyphony, so chords and overlapping notes ring out together, played from a MIDI keyboard or stacked up by the sequencer and arpeggiator.
 
 **Shape**
 
@@ -82,14 +82,11 @@ Tap the tabs across the top of the touch screen:
 * FX: delay and chorus.
 * SET: MIDI settings.
 
-Press B at any time to switch between the voice modes.
-
 ## A note on MIDI sync
 
 Turn on Clock In to follow an external clock. moody-ds starts right on the beat and stops cleanly when the clock stops. Turn on Clock Out to lead instead, sending clock and transport to the rest of your rig.
 
 If you sync from an arduinoboy or LSDJ setup, moody-ds quietly ignores the extra start note those rigs send alongside their clock, so you get clean timing with no surprise drone. Notes you actually play still come through as normal.
-
 
 ## Credits and license
 
