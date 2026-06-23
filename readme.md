@@ -1,3 +1,5 @@
+<img src="moody-ds-logo.png" width="300">
+
 # moody-ds
 
 A touchscreen analog style synth and groovebox for the Nintendo DS.
